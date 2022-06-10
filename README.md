@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=NotFounds)
 
 - 👋 Hi, I’m @NotFounds
-- 👀 I’m interested in Auth N/Z, TypeScript(Deno, React), Elixir and golang.
+- 👀 I’m interested in Auth N/Z and the improvement of the developer experience.
+- 🌍 TypeScript(Deno, React), Elixir and golang.
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFounds&layout=compact&show_icons=true" />
